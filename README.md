@@ -6,7 +6,7 @@
 
 - _React_
 - _Typescript_
-- _Tailwind_
+- _Styled components_
 - _React icons_
 
 ---
